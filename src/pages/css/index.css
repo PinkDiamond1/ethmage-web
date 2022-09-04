@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+@import "common.css";
+
+html body {
+  font-family: "Nunito", sans-serif;
+  background-color: var(--bg) !important;
+  background-image: url("ethmage-web-mockup.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
