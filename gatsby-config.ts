@@ -4,7 +4,7 @@ const config: GatsbyConfig = {
   siteMetadata: {
     title: `Ether Mage`,
     siteUrl: `https://ethmage.com`,
-    description: `Etherians of Might and Magic`,
+    description: `Etherians of Might and Magic - An experimental cross-L2s interactive collectible on StarkNet, zkSync, Arbitrum, Optimism`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
